@@ -1,11 +1,11 @@
 
 
 # Installation
-cd IP Tracker
+cd IP-Tracker
 
-chmod +x IP Tracker.py
+chmod +x IP-Tracker.py
 
-python IP Tracker.py 
+python IP-Tracker.py 
 
 
 # Warning
