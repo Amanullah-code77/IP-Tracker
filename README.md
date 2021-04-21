@@ -7,6 +7,7 @@ Track any Ip address. IP-Tracker is developed for Linux based systems.
 cd IP-Tracker
 
 chmod +x IP-Tracker.py
+
 apt-get install python
 
 python IP-Tracker.py 
